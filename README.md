@@ -22,3 +22,8 @@ Or you can manually create it:
 Now on pressing it all the opened windows will be minimized.
 
 You can delete the shortcut from the desktop if you don't need it here.
+
+You can change the icon of the created shortcut. Some windows icons you can find in the
+
+        %SystemRoot%\system32\imageres.dll
+
